@@ -1,16 +1,16 @@
-typography_spectrum: 0.26990053919143975
+typography_spectrum: 0.5852395899128169
 color:
-  brandStrength: 0.41223624045960605
-  lightness: 0.6072204292286187
-  saturation: 0.07819038396701217
-  rhythmicContrast: 0.8612785425502807
+  brandStrength: 0.03739680256694555
+  lightness: 0.2184921125881374
+  saturation: 0.3958244565874338
+  rhythmicContrast: 0.5682902911212295
   brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
     - '#FFFFFF'
-    - '#CCCCCC'
-    - '#999999'
-    - '#4D4D4D'
-    - '#333333'
-layout_spectrum: 0.5852594948373735
+    - '#FF9800'
+layout_spectrum: 0.47302161902189255
 author:
   name: 'Stefan MHerzog. '
   url: ''
