@@ -2,33 +2,32 @@
 author: []
 related: []
 publisher:
-  url: 'https://www.mpib-berlin.mpg.de'
-  name: Mpg
-  favicon: 'https://www.mpib-berlin.mpg.de/favicon.ico'
-  domain: www.mpib-berlin.mpg.de
+  url: 'https://www.researchgate.net'
+  name: ResearchGate
+  favicon: 'https://c5.rgstatic.net/m/2390829798215018/images/favicon.ico'
+  domain: www.researchgate.net
 keywords:
+  - researchgate
   - herzog
-  - hertwig
-  - doi
-  - amp
-  - cognition
-  - text
-  - helversen
-  - '2014'
-  - science
-  - full
+  - stefan
+  - psychology
+  - max
+  - wisdom
+  - judgment
+  - heuristics
+  - cv_herzog_stefan
+  - kurvers
 description: >-
-  in press Herzog, S. M., & von Helversen, B. (in press). Strategy selection
-  versus strategy blending: A predictive perspective on single- and
-  multi-strategy accounts in multiple-cue estimation. Journal of Behavioral
-  Decision Making. doi:10.1002/bdm.1958 Full text Kurvers, R. H. J. M., Herzog,
-  S. M., Hertwig, R., Krause, J., Carney, P.
+  Stefan Herzog of Max Planck Institute for Human Development, Berlin with
+  expertise in Quantitative Psychology, Experimental Psychology, Cognitive
+  Science is on ResearchGate. Read 21 publications, and contact Stefan Herzog on
+  ResearchGate, the professional network for scientists.
 inLanguage: en
 app_links: []
-isBasedOnUrl: 'https://www.mpib-berlin.mpg.de/en/staff/stefan-herzog'
+isBasedOnUrl: 'https://www.researchgate.net/profile/Stefan_Herzog2'
 title: Stefan Herzog
-datePublished: '2016-08-04T11:00:08.668Z'
-dateModified: '2016-08-04T10:59:46.619Z'
+datePublished: '2016-08-04T11:01:41.408Z'
+dateModified: '2016-08-04T11:00:30.386Z'
 via: {}
 starred: false
 sourcePath: _posts/2016-08-04-stefan-herzog.md
@@ -39,4 +38,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>Stefan Herzog</h1><p>in press Herzog, S. M., &amp; von Helversen, B. (in press). Strategy selection versus strategy blending: A predictive perspective on single- and multi-strategy accounts in multiple-cue estimation. Journal of Behavioral Decision Making. doi:10.1002/bdm.1958 Full text Kurvers, R. H. J. M., Herzog, S. M., Hertwig, R., Krause, J., Carney, P.</p></article>
+<article style=""><h1>Stefan Herzog</h1><p>Stefan Herzog of Max Planck Institute for Human Development, Berlin with expertise in Quantitative Psychology, Experimental Psychology, Cognitive Science is on ResearchGate. Read 21 publications, and contact Stefan Herzog on ResearchGate, the professional network for scientists.</p><img src="https://i1.rgstatic.net/ii/profile.image/AS%3A279781049421826%401443716408935_l/Stefan_Herzog2.png" /></article>
