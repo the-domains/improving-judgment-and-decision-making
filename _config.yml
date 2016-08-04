@@ -1,16 +1,16 @@
-typography_spectrum: 0.36623542942106724
+typography_spectrum: 0.7301949127577245
 color:
-  brandStrength: 0.13227023580111563
-  lightness: 0.8059605720918626
-  saturation: 0.3866396138910204
-  rhythmicContrast: 0.1100959547329694
+  brandStrength: 0.5946084600873291
+  lightness: 0.9198831112589687
+  saturation: 0.5296377567574382
+  rhythmicContrast: 0.5282854014076293
   brandColors:
-    - '#468966'
-    - '#FFF0A5'
-    - '#FFB03B'
-    - '#B64926'
-    - '#8E2800'
-layout_spectrum: 0.26879510353319347
+    - '#000000'
+    - '#404040'
+    - '#808080'
+    - '#BFBFBF'
+    - '#FFFFFF'
+layout_spectrum: 0.709295928478241
 author:
   name: Stefan Herzog
   url: 'http://stefanherzog.org'
