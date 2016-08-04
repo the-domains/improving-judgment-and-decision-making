@@ -15,12 +15,6 @@ author:
   name: Stefan Herzog
   url: 'http://stefanherzog.org'
 name: stefanherzog.org
-navigation:
-  - name: About
-    id: defa31f7-ee85-46ba-942d-f9f5d7871edc
-    type: content
-  - name: CV
-    id: 3dbd964d-641f-45f4-a8cd-0a4f17d816f2
-    type: content
+navigation: []
 title: Stefan M. Herzog
 description: Improving judgment and decision making
