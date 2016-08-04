@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Stefan M. Herzog]]></title>
+        <description><![CDATA[Stefan M. Herzog]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 04 Aug 2016 11:00:09 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Stefan Herzog]]></title>
+            <description><![CDATA[<article><h1>Stefan Herzog</h1><p>in press Herzog, S. M., & von Helversen, B. (in press). Strategy selection versus strategy blending: A predictive perspective on single- and multi-strategy accounts in multiple-cue estimation. Journal of Behavioral Decision Making. doi:10.1002/bdm.1958 Full text Kurvers, R. H. J. M., Herzog, S. M., Hertwig, R., Krause, J., Carney, P.</p></article>]]></description>
+            <link>https://www.mpib-berlin.mpg.de/en/staff/stefan-herzog</link>
+            <guid isPermaLink="false">8e2a94ff-6cb0-4808-8b6f-2b68c0809ada</guid>
+            <pubDate>Thu, 04 Aug 2016 11:00:08 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
