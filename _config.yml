@@ -11,6 +11,9 @@ color:
     - '#547AB1'
     - '#CEAFC0'
 layout_spectrum: 0.004775128094479442
+author:
+  name: Stefan Herzog
+  url: 'http://stefanherzog.org'
 name: stefanherzog.org
 title: Stefan M. Herzog
 description: Improving judgment and decision making
