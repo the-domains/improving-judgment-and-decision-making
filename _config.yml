@@ -1,4 +1,3 @@
-layout_spectrum: 0.004775128094479442
 typography_spectrum: 0.018397361040115356
 color:
   brandStrength: 0.5160663514398038
@@ -11,5 +10,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
+layout_spectrum: 0.004775128094479442
 name: stefanherzog.org
 title: Stefan M. Herzog
+description: Improving judgment and decision making
